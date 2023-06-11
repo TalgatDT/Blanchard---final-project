@@ -1,2 +1,5 @@
 # Blanchard---final-project
-My final work on the course "Basic layout". Моя финальная работа по курсу "Базовая вёрстка".
+My diploma work on the course "Basic imposition".
+
+# Blanchard---финальный проект
+Моя дипломная работа по курсу "Базовая вёрстка".
